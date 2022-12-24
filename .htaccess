@@ -1,0 +1,2 @@
+AddType model/vnd.usdz+zip .usdz
+AddType model/vnd.reality .reality
